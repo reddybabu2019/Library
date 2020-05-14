@@ -1,0 +1,8 @@
+Steps to follow to check the code.
+         1. apply Users.sql,books.sql,issuebooks.sql in mysql  "test" DB  
+         2. select UserLogin form
+         3. input the user name: user1 and password : ppp
+        4. you can select any function by clicking button and click close on right corner to go back to options.
+
+----------------
+
